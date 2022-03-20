@@ -1,3 +1,4 @@
+# I am going to learn how to edit text in the brunch and later how to mege it to the MAIN
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -21,4 +22,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ....
